@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, CursorLoader Tutorial this is your contacts!</string>
+    <string name="app_name">CursorLoader Tuto</string>
+    <!-- String with parameters ($s for string, $d for decimal (any decimal: integer, double, float...) -->
+    <string name="param_message">Hello, i love %1$s, i hate %2$s, i am %3$d years old</string>
+    <!-- String array -->
+    <string-array name="i_like_array">
+        <item>chocolate</item>
+        <item>television</item>
+    </string-array>
+    <!-- Plurals String -->
+    <plurals name="singleOrPlural">
+        <item quantity="one">I am alone on moon</item>
+        <item quantity="other">I am 6 900 000 000 on earth</item>
+    </plurals>
+
+</resources>
